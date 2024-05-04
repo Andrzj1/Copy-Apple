@@ -1,0 +1,10 @@
+* {
+    background-color: rgb (black , rgb(229, 227, 227));
+    }
+    .img {
+        width: 200px;
+        height: 200px;
+    }
+    .list-group list-group-numbered {
+    width: -500px;
+    }
