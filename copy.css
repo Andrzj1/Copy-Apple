@@ -17,3 +17,8 @@
     justify-content: start;
     align-items: center;
 } 
+.btn-group-vertical{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
