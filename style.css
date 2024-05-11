@@ -1,24 +1,15 @@
-.img {
-    width: 100px;
-    height: 100px;
+.block {
+    background-color: grey;
+    width: 1175px;
+    height: 700px;
+    border-radius: 20%;
 }
-.p {
-    display: flex;
-    justify-content: center;
-    align-items: start;
-}
-.pagination {
-    display: flex;
-    justify-content: center;
-    align-items: end;
-}
-.btn btn-dark{
+.block_2 {
+    background-color: darkseagreen;
+    height: 700px;
+    width: 300px;
+    border-radius: 20%;
     display: flex;
     justify-content: start;
-    align-items: center;
-} 
-.btn-group-vertical{
-    display: flex;
-    justify-content: center;
-    align-items: start;
+    align-items: end;
 }
