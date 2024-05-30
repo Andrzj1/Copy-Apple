@@ -1,15 +1,3 @@
-.block {
-    background-color: grey;
-    width: 1175px;
-    height: 700px;
-    border-radius: 20%;
-}
-.block_2 {
-    background-color: darkseagreen;
-    height: 700px;
-    width: 300px;
-    border-radius: 20%;
-    display: flex;
-    justify-content: start;
-    align-items: end;
+* {
+    background-color: gray;
 }
